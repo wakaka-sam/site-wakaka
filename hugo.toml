@@ -1,0 +1,13 @@
+baseURL = "/"
+languageCode = "zh-CN"
+title = "企业官网"
+
+[markup.goldmark.renderer]
+unsafe = true
+
+[outputs]
+home = ["HTML"]
+page = ["HTML"]
+
+[params]
+  siteYaml = "site.yaml"
