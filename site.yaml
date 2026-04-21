@@ -4,10 +4,10 @@
 # ============================================================
 
 company:
-  name: "示例科技有限公司"
+  name: "wakaka技术公司"
   tagline: "让科技更简单"
   founded: "2020"
-  email: "contact@example.com"
+  email: "wakaka@wakaka007.cn"
   phone: "400-000-0000"
   address: "北京市朝阳区xxx大厦"
   icp: ""  # 备案号，可为空
