@@ -24,15 +24,15 @@ hero:
   cta_link: "/contact"
 
 services:
-  - name: "产品咨询"
-    description: "专业团队为您提供一对一产品选型和方案设计服务"
-    icon: "chat"
-  - name: "技术实施"
-    description: "从需求分析到上线运维，全程陪伴式服务"
-    icon: "code"
-  - name: "售后支持"
-    description: "7x24小时技术支持，保障业务稳定运行"
-    icon: "shield"
+- name: "产品咨询"
+  description: "专业团队为您提供一对一产品选型和方案设计服务"
+  icon: "chat"
+- name: "技术实施"
+  description: "从需求分析到上线运维，全程陪伴式服务"
+  icon: "code"
+- name: "售后支持"
+  description: "7x24小时技术支持，保障业务稳定运行"
+  icon: "shield"
 
 about:
   summary: "我们是一家专注于企业数字化转型的科技公司，成立于2020年。"
@@ -41,6 +41,6 @@ about:
   clients: "200+"
 
 social:
-  wechat: ""
+  wechat: "static/images/logo.jpg"
   weibo: ""
   linkedin: ""
